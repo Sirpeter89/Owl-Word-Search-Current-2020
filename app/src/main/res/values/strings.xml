@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WordSearch</string>
+    <string name="instructions">Instructions:</string>
+    <string name="OHNO">Mr. Owl lost his sight and the ability to find words in his box of letters! OH NO!</string>
+    <string name="TV4">Help Mr. Owl by finding the hidden words in a box of scrambled letters</string>
+    <string name="TV5">Tap on letters in the same direction in order to highlight and find missing words</string>
+    <string name="TV6">Once a word is highlighted tap \"Send the Word,\" if it\'s one of Mr. Owl\'s hidden words, you will earn a STAR!</string>
+    <string name="TV7">Earn all 6 Stars and become THE OWL MASTER</string>
+    <string name="Owl">Owl</string>
+    <string name="ShortDescrip">Mr. Owl the best word searcher has been blindfolded and needs your help! Help him find his hidden words and become the OWL MASTER.</string>
+    <string name="play">Play Now!</string>
+    <string name="mission">Your Mission:</string>
+    <string name="FindW">Find These Words!</string>
+    <string name="words2find">OBJECTIVEC</string>
+    <string name="variablet">VARIABLE</string>
+    <string name="swft">SWIFT</string>
+    <string name="kot">KOTLIN</string>
+    <string name="java">JAVA</string>
+    <string name="mobile">MOBILE</string>
+    <string name="beg">Begin</string>
+    <string name="yWin">You Win!</string>
+    <string name="owlMast">Owl Master Achieved!</string>
+    <string name="replay">Play Again?</string>
+</resources>
