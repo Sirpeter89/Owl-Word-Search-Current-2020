@@ -39,7 +39,7 @@ Sending wrong word-><img src="images/clearing.png" width = "300" height="500">
 
 The next screenshot shows a situation where the user has found some words and received the correlating amount of stars as their score. Here the user has found the words Java, Kotlin, and Swift. The user has now received 3 out of 6 stars.
 
-<img src="images/WordSearchSome.png" width = "300" height="500">
+(Retook this screenshot, taken on a new run, "LIL" changed to "LLL")<img src="images/WordSearchSome.png" width = "300" height="500">
 
 The next image shows that now the user has found 5 out of 6 words. The user has the last word they need selected and all they need to do is tap on "Send the Word" in order to win and proceed.
 
