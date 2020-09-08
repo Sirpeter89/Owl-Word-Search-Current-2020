@@ -26,7 +26,7 @@ The following screenshot shows the word search game itself, in which the user ha
 Mechanics:
 In this game the user has to tap on each letter separetly (highlighting the corresponding letter they tapped on yellow) in which once an entire word is highlighted yellow, the user must tap on the "Send the Word" button in order to submit the word to be checked to see if it was one of the six words the user was prompted to find. **The user only has the ability to tap on letters in the same linear fashion (ie: left, right, diagonally up right, etc. e.g: If they tap on a letter on the bottom corner of the screen and attempt to tap another letter anywhere else such as the top right of the screen they will not have the ability to and the letter will not be highlighted nor will their input be taken into account)** If the word was correct, the entirety of the word will now be highlighted in green. And a corresponding star will be added to their score. If the word was not correct, the letters will no longer be highlighted, thus clearing their input. At the moment this is also the only way to clear mistaken input. 
 
-(Note: The letters on the board are generated randomly, except for the letters that belong to the six words we need to find. The incorrect word "LUL" would most likely not show up on any other generations of the word grid. The six words are also always positioned in the same spots.)
+(Note: The letters on the board are generated randomly, except for the letters that belong to the six words we need to find. The incorrect word "LIL" would most likely not show up on any other generations of the word grid. The six words are also always positioned in the same spots.)
 
 
 Tapping on letters-><img src="images/playing.png" width = "300" height="500"> 
